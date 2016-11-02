@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: joren
+Main-Class: be.hogent.tarsos.dsp.example.FeatureExtractor
+Implementation-Version: 1.3-20120919
+Built-By: joren
+Built-Date: September 19 2012
+Class-Path: .
+
